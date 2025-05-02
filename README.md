@@ -17,8 +17,8 @@ A Node.js RESTful API for generating combinations based on input item IDs and a 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/combination-generator-api.git
-cd combination-generator-api
+git clone https://github.com/Hayk-Tsaturyan/combinations-node-sql.git
+cd combinations-node-sql
 ```
 
 ### 2. Install Dependencies
